@@ -1,0 +1,15 @@
+= expo-sharing-image
+Developer <izass1312@gmail.com>
+
+This app was made fallowing Expo base tutorial, find in: https://docs.expo.io/tutorial/planning/ . It pick a image from you device and share it with another app. 
+To do that you need to give permission to the app acess your files.
+
+The app run in web too, in this case it generate a anonymous link where user can download the image file.
+
+== Get start
+
+1. Clone or download the repository project to your machine
+2. Change to project directory
+3. Run `yarn install` 
+4. Run `yarn start` 
+5. Read the QR code with your Expo client App or run it on web.
